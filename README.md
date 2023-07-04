@@ -1,2 +1,2 @@
-# ML-projects
-In this repository i will be uploading some small ML project as i go along in course on MLDA which i am doing at my institue IIT Bhubneshwar.
+# MLDA Course Material and Projects
+In this repository, i will be uploading some small ML projects as I go along in the course on MLDA which I am doing at my institute IIT Bhubneshwar.
